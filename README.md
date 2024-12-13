@@ -1,0 +1,3 @@
+- Designed desktop text app that tracks a user’s experiences through an airport terminal, including tracking expenses, checking flight status, and airport weather
+- Developed personal user adventures from arriving to boarding, and stored profiles based on past experiences
+- Integrated multi-destination airport with unique shopping, dining, and luxury experiences
