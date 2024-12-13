@@ -5,7 +5,7 @@
 ---
 **Algorithm:**
 1. Declare and initialize starting variables
-a. Current time (int)
+  a. Current time (int)
 b. Variables for boarding pass (char for terminal, int for boarding time, char for
 boarding class, int for seat number)
 2. Display boarding pass of user and times
